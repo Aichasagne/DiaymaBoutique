@@ -34,4 +34,6 @@ Gestion incorrecte de la suppression des articles dans le Panier. En mode panier
 **Bug 2 :** 
 Lors de la finalisation de la commande, l'application affiche un message de "Démo est terminée". Ceci est la preuve que le fichier Startup.cs (ligne 20) est configuré pour injecter un service fictif (Mock Repository) à la place du véritable service de persistance, rendant le système incapable d'enregistrer réellement les commandes.
 
+![alt text](image.png)
+
 
