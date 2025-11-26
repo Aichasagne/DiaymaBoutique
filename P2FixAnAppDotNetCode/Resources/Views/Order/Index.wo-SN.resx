@@ -58,10 +58,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DemoEnding" xml:space="preserve">
-    <value>We are processing your order. The demo is over, click on the logo to start over.</value>
+  <data name="Adress" xml:space="preserve">
+    <value>Sa deukouway</value>
   </data>
-  <data name="Thanks" xml:space="preserve">
-    <value>Thank you!</value>
+  <data name="City" xml:space="preserve">
+    <value>kogne bingua deuk</value>
+  </data>
+  <data name="CompleteOrder" xml:space="preserve">
+    <value>Sakkuu bi mujj</value>
+  </data>
+  <data name="Country" xml:space="preserve">
+    <value>Réew mi</value>
+  </data>
+  <data name="EnterDetails" xml:space="preserve">
+  <value>Nguir yalla dougualal details yeup , niou meune la livrer thi lou gaw !</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Sa deukouway</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tour bi</value>
+  </data>
+  <data name="OrderTitle" xml:space="preserve">
+    <value>Nguir yalla rempliral li</value>
+  </data>
+  <data name="ShipSoon" xml:space="preserve">
+    <value>Dinagn la livrer thi lou yagoul dara</value>
+  </data>
+  <data name="ShipTo" xml:space="preserve">
+    <value>Fign koy livrer</value>
+  </data>
+  <data name="Zip" xml:space="preserve">
+    <value>Zip</value>
   </data>
 </root>

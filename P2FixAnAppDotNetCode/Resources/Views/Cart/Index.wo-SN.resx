@@ -59,34 +59,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Checkout" xml:space="preserve">
-    <value>Checkout</value>
+    <value>Doxaleel jënd gi</value>
   </data>
   <data name="ContinueShopping" xml:space="preserve">
-    <value>Continue Shopping</value>
+    <value>Wéyal jënd gi</value>
   </data>
   <data name="Item" xml:space="preserve">
-    <value>Item</value>
+    <value>Néeg</value>
   </data>
   <data name="Price" xml:space="preserve">
-    <value>Price</value>
+    <value>Njëg</value>
   </data>
   <data name="Quantity" xml:space="preserve">
-    <value>Quantity</value>
+    <value>Lim</value>
   </data>
   <data name="Remove" xml:space="preserve">
-    <value>Remove</value>
+    <value>Dindi</value>
   </data>
   <data name="Subtotal" xml:space="preserve">
-    <value>Subtotal</value>
+    <value>Bii lim</value>
   </data>
   <data name="Total" xml:space="preserve">
-    <value>Total</value>
+    <value>Lim bu mat</value>
   </data>
   <data name="YourCart" xml:space="preserve">
-    <value>Your cart</value>
+    <value>Sa saaku</value>
   </data>
   <data name="Average" xml:space="preserve">
-    <value>Average</value>
+    <value>Nawaliin</value>
     <comment>Average</comment>
   </data>
 </root>

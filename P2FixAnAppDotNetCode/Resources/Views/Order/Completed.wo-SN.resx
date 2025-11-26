@@ -58,22 +58,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddToCart" xml:space="preserve">
-    <value>Add to cart</value>
+  <data name="DemoEnding" xml:space="preserve">
+    <value>Niongui defar sa commande. Demo bi diehna, Beussal logo bi pour tamaliwat</value>
   </data>
-  <data name="Description" xml:space="preserve">
-    <value>Description</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="Price" xml:space="preserve">
-    <value>Price</value>
-  </data>
-  <data name="ProductList" xml:space="preserve">
-    <value>Product list</value>
-  </data>
-  <data name="Stock" xml:space="preserve">
-    <value>Stock</value>
+  <data name="Thanks" xml:space="preserve">
+    <value>Dieureudieuf!</value>
   </data>
 </root>
