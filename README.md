@@ -42,19 +42,6 @@ Lors de la finalisation de la commande, l'application affiche un message de "Dé
 
 # Tâche 7 : Placez un point d’arrêt sur les lignes suivantes du code 
 
-**a) CartSummaryViewComponent ligne 12 
-**![alt text](image-3.png)
-
-**b) ProductController ligne 15 
-**![alt text](image-4.png)
-
-**c) OrderController ligne 17 
-**![alt text](image-5.png)
-
-**d) CartController ligne 15 
-**![alt text](image-6.png)
-
-**e) Startup ligne 20 
-**![alt text](image-7.png)
+![alt text](image-8.png)
 
 

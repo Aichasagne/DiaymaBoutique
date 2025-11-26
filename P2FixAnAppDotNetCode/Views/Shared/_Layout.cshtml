@@ -24,6 +24,9 @@
         </div>
     </div>
     <div class="container body-content">
+        @* Debug: affiche la culture courante côté serveur *@
+        @using System.Globalization
+        <div id="dbg-culture" style="font-size:12px;color:gray;margin-bottom:8px">Culture: @CultureInfo.CurrentCulture.Name | UI: @CultureInfo.CurrentUICulture.Name</div>
         @RenderBody()
         <hr />
         <footer>
